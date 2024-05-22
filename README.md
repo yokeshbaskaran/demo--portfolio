@@ -4,4 +4,4 @@ Using Tech Stack:
 - Tailwind CSS
 
 ## Live Link: 
-https://demo-profile-pink.vercel.app/contact
+https://demo-profile-pink.vercel.app
